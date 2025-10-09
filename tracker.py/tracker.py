@@ -34,8 +34,8 @@ for i in range((meal_names)):
     print(f"Average Calories per meal: {average_calories:.2f}")
     print(f"Dalily Calorie Limit: {daily_limit}")
     print("-----------------------")
-    print("Thank you for using the Daily Calarie Tracker!")
-    print("Stay healthy and mindful of your clorie intake!")
+    print("Thank you for using the Daily Calorie Tracker!")
+    print("Stay healthy and mindful of your calorie intake!")
 
 
 
